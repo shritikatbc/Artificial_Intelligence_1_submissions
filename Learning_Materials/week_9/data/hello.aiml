@@ -1,34 +1,28 @@
 <aiml version="1.0.1" encoding="UTF-8">
 
-
 <category>
   <pattern> GREETINGS</pattern>
   <template> Hi there</template>
 </category>
 
 <category>
-<pattern>HI </pattern>
-<template><srai>GREETINGS</srai></template>
+  <pattern>HELLO</pattern>
+  <template><srai>GREETINGS</srai></template>
 </category>
 
 <category>
-<pattern> HELLO </pattern>
-<template><srai>GREETINGS</srai></template>
+  <pattern>HI</pattern>
+  <template><srai>GREETINGS</srai></template>
 </category>
 
 <category>
-<pattern>HOWDI </pattern>
-<template><srai>GREETINGS</srai></template>
+  <pattern>GOOD MORNING</pattern>
+  <template><srai>GREETINGS</srai></template>
 </category>
 
 <category>
-<pattern>WOTCHA </pattern>
-<template><srai>GREETINGS</srai></template>
-</category>
-
-<category>
-<pattern> MY NAME IS *</pattern>
-<template> Well, hello <star/></template>
+  <pattern>GOOD AFTERNOON</pattern>
+  <template><srai>GREETINGS</srai></template>
 </category>
 
 </aiml>

@@ -2,4 +2,51 @@
 <!-- 
 Your categories go below this comment
 -->
+
+<category>
+  <pattern>WHAT IS LONG TERM KNOWLEDGE</pattern>
+  <template>Long-term knowledge is valid over a period of time.</template>
+</category>
+
+<category>
+  <pattern>DESCRIBE LONG TERM KNOWLEDGE</pattern>
+  <template><srai>WHAT IS LONG TERM KNOWLEDGE</srai></template>
+</category>
+
+<category>
+  <pattern>TELL ME ABOUT LONG TERM KNOWLEDGE</pattern>
+  <template><srai>WHAT IS LONG TERM KNOWLEDGE</srai></template>
+</category>
+
+<category>
+  <pattern>WHAT IS SHORT TERM KNOWLEDGE</pattern>
+  <template>Short-term knowledge is only valid for a particular situation or run of a programme.</template>
+</category>
+
+<category>
+  <pattern>DESCRIBE SHORT TERM KNOWLEDGE</pattern>
+  <template><srai>WHAT IS SHORT TERM KNOWLEDGE</srai></template>
+</category>
+
+<category>
+  <pattern>TELL ME ABOUT SHORT TERM KNOWLEDGE</pattern>
+  <template><srai>WHAT IS SHORT TERM KNOWLEDGE</srai></template>
+</category>
+
+<!-- Examples -->
+<category>
+  <pattern>GIVE ME AN EXAMPLE OF LONG TERM GENERIC KNOWLEDGE</pattern>
+  <template>Generative AI frequently hallucinates and produces incorrect results.</template>
+</category>
+
+<category>
+  <pattern>ILLUSTRATE THE CONCEPT OF LONG TERM GENERIC KNOWLEDGE</pattern>
+  <template><srai>GIVE ME AN EXAMPLE OF LONG TERM GENERIC KNOWLEDGE</srai></template>
+</category>
+
+<category>
+  <pattern>PROVIDE AN EXAMPLE OF LONG TERM GENERIC KNOWLEDGE</pattern>
+  <template><srai>GIVE ME AN EXAMPLE OF LONG TERM GENERIC KNOWLEDGE</srai></template>
+</category>
+
 </aiml>

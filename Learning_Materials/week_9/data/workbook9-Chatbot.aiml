@@ -14,5 +14,9 @@ so this line is a comment too
 <!-- 
 ADD AT LEAST ONE NEW CATEGORY  BELOW THIS COMMENT
 -->
+<category>
+  <pattern>HELLO</pattern>
+  <template>Hi! How can I help you today?</template>
+</category>
 
 </aiml>
